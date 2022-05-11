@@ -1,4 +1,4 @@
-# vue-crash-2022
+# Task Tracker
 
 ## Project setup
 ```
